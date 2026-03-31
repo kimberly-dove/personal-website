@@ -23,6 +23,7 @@ h2{
   display:flex;/** this line makes the whole element flexbox **/
   flex-direction:column; /** makes it go down **/
   justify-content:center; /**centers the code**/
+  align-content:center;
 }
 
 .flexbox>*{
