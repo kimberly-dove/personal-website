@@ -16,3 +16,22 @@ p, h1, h3, li, a{
 h2{
   color:#5A4B35;
 }
+
+
+/** a small example of flexbox 
+.flexbox{
+  display:flex;
+  flex-direction:column;
+  align-content:center
+}
+
+.flexbox>*{
+  border-style:solid;
+  border-radius:5px;
+  border-color:white;
+}
+
+
+
+
+**/
