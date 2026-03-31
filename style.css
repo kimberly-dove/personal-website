@@ -8,3 +8,11 @@
 body{
   background:#1F1A1C;
 }
+
+p, h1, li{
+  color:#AA8B53;
+}
+
+a{
+  color:#5A4B35;
+}
