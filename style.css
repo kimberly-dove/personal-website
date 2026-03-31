@@ -9,7 +9,7 @@ body{
   background:#1F1A1C;
 }
 
-p, h1, h3, li, a{
+p, h1, h3, li, a, table, tr, th, td{
   color:#AA8B53;
 }
 
