@@ -18,11 +18,11 @@ h2{
 }
 
 
-/** a small example of flexbox 
+/** a small example of flexbox **/
 .flexbox{
-  display:flex;
-  flex-direction:column;
-  align-content:center
+  display:flex;/** this line makes the whole element flexbox **/
+  flex-direction:column; /** makes it go down **/
+  justify-content:center; /**centers the code**/
 }
 
 .flexbox>*{
@@ -32,6 +32,3 @@ h2{
 }
 
 
-
-
-**/
