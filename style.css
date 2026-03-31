@@ -9,10 +9,10 @@ body{
   background:#1F1A1C;
 }
 
-p, h1, li{
+p, h1, h3, li, a{
   color:#AA8B53;
 }
 
-a{
+h2{
   color:#5A4B35;
 }
