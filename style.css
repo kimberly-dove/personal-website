@@ -7,8 +7,25 @@ a:visited{
   color:#ab9979;
 }
 
-h2{
-  color:#5A4B35;
+a:hover{
+  font-weight:bold;
+}
+
+h3{
+  margin-block-start:1em;
+  margin-block-end: 0.5em;
+}
+
+ul{
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  padding-inline-start:40px;
+  list-style-type:circle;
+}
+
+p{
+  margin-block-start:0em;
+  margin-block-end:0em;
 }
 
 /**classes**/
