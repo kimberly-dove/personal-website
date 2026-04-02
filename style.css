@@ -1,15 +1,5 @@
-.clas{
-  position:absolute;
-  top:50%;
-  left:50%;
-  transform:translate(-50%,-50%);
-}
-
 body{
   background:#1F1A1C;
-}
-
-p, h1, h3, li, a, table, tr, th, td{
   color:#AA8B53;
 }
 
@@ -17,6 +7,20 @@ h2{
   color:#5A4B35;
 }
 
+/**classes**/
+
+.clas{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+
+.rightbar{
+  top:10%;
+  left:80%;
+  transform:translate(-10%,-80%);
+}
 
 /** a small example of flexbox **/
 .flexbox{
