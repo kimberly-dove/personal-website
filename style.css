@@ -37,6 +37,12 @@ p{
   transform:translate(-50%,-50%);
 }
 
+.homebar{
+  border-width:0px 0px 5px 0px;
+  border-style:dotted;
+  background-color:#5A4B35;
+}
+
 .rightbar{
   position:absolute;
   top:0px;
