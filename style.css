@@ -22,9 +22,9 @@ h2{
 
 .rightbar{
   position:absolute;
-  top:30%;
-  left:80%;
-  transform:translate(-10%,-80%);
+  top:0px;
+  left:75%;
+  right:2%
 }
 
 /** a small example of flexbox **/
@@ -38,7 +38,7 @@ h2{
 .flexbox>*{
   border-style:solid;
   border-radius:5px;
-  border-color:white;
+  border-color:#5A4B35;
 }
 
 
