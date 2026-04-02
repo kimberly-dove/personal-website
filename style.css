@@ -17,6 +17,7 @@ h2{
 }
 
 .rightbar{
+  position:absolute;
   top:10%;
   left:80%;
   transform:translate(-10%,-80%);
